@@ -1,0 +1,7 @@
+{
+  "name": "MiAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
