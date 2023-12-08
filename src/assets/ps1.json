@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Crash Bandicoot",
+      "author": "Naughty Dog",
+      "year": "1996",
+      "description": "Plataformas"
+    },
+    {
+      "name": "Final Fantasy VII",
+      "author": "Square",
+      "year": "1997",
+      "description": "RPG"
+    },
+    {
+      "name": "Resident Evil",
+      "author": "Capcom",
+      "year": "1996",
+      "description": "Survival Horror"
+    },
+    {
+      "name": "Metal Gear Solid",
+      "author": "Konami",
+      "year": "1998",
+      "description": "Acción-Aventura"
+    },
+    {
+      "name": "Gran Turismo 2",
+      "author": "Polyphony Digital",
+      "year": "1999",
+      "description": "Conducción"
+    },
+    {
+      "name": "Tomb Raider",
+      "author": "Core Design",
+      "year": "1996",
+      "description": "Acción-Aventura"
+    },
+    {
+      "name": "Crash Team Racing",
+      "author": "Naughty Dog",
+      "year": "1999",
+      "description": "Conducción"
+    },
+    {
+      "name": "Silent Hill",
+      "author": "Konami",
+      "year": "1999",
+      "description": "Survival Horror"
+    },
+    {
+      "name": "Tekken 3",
+      "author": "Namco",
+      "year": "1997",
+      "description": "Lucha"
+    },
+    {
+      "name": "Castlevania: Symphony of the Night",
+      "author": "Konami",
+      "year": "1997",
+      "description": "Acción-Aventura"
+    }
+  ]
+  

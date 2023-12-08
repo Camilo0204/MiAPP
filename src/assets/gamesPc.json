@@ -1,0 +1,116 @@
+[
+    {
+      "name": "The Witcher 3: Wild Hunt",
+      "author": "CD Projekt",
+      "year": "2015",
+      "description": "RPG"
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "author": "Rockstar Games",
+      "year": "2013",
+      "description": "Acción"
+    },
+    {
+      "name": "Minecraft",
+      "author": "Mojang Studios",
+      "year": "2011",
+      "description": "Sandbox"
+    },
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "author": "Valve Corporation",
+      "year": "2012",
+      "description": "Acción"
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "author": "Bethesda Game Studios",
+      "year": "2011",
+      "description": "RPG"
+    },
+    {
+      "name": "Fallout 4",
+      "author": "Bethesda Game Studios",
+      "year": "2015",
+      "description": "RPG"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "author": "Rockstar Games",
+      "year": "2018",
+      "description": "Acción"
+    },
+    {
+      "name": "Among Us",
+      "author": "InnerSloth",
+      "year": "2018",
+      "description": "Casual"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare",
+      "author": "Infinity Ward",
+      "year": "2019",
+      "description": "Acción"
+    },
+    {
+      "name": "League of Legends",
+      "author": "Riot Games",
+      "year": "2009",
+      "description": "MOBA"
+    },
+    {
+      "name": "World of Warcraft",
+      "author": "Blizzard Entertainment",
+      "year": "2004",
+      "description": "MMORPG"
+    },
+    {
+      "name": "Overwatch",
+      "author": "Blizzard Entertainment",
+      "year": "2016",
+      "description": "FPS"
+    },
+    {
+      "name": "FIFA 21",
+      "author": "EA Vancouver",
+      "year": "2020",
+      "description": "Deportes"
+    },
+    {
+      "name": "The Sims 4",
+      "author": "Maxis",
+      "year": "2014",
+      "description": "Simulación"
+    },
+    {
+      "name": "Mortal Kombat 11",
+      "author": "NetherRealm Studios",
+      "year": "2019",
+      "description": "Lucha"
+    },
+    {
+      "name": "Assassin's Creed Valhalla",
+      "author": "Ubisoft Montreal",
+      "year": "2020",
+      "description": "Acción"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "author": "CD Projekt",
+      "year": "2020",
+      "description": "RPG"
+    },
+    {
+      "name": "Genshin Impact",
+      "author": "miHoYo",
+      "year": "2020",
+      "description": "RPG"
+    },
+    {
+      "name": "Fortnite",
+      "author": "Epic Games",
+      "year": "2017",
+      "description": "Battle Royale"
+    }
+  ]

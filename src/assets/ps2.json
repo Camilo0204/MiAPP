@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Grand Theft Auto: San Andreas",
+      "author": "Rockstar Games",
+      "year": "2004",
+      "description": "Aventura"
+    },
+    {
+      "name": "God of War II",
+      "author": "Santa Monica Studio",
+      "year": "2007",
+      "description": "Acción"
+    },
+    {
+      "name": "Shadow of the Colossus",
+      "author": "Team Ico",
+      "year": "2005",
+      "description": "Aventura"
+    },
+    {
+      "name": "Metal Gear Solid 3: Snake Eater",
+      "author": "Konami",
+      "year": "2004",
+      "description": "Acción"
+    },
+    {
+      "name": "Final Fantasy X",
+      "author": "Square Enix",
+      "year": "2001",
+      "description": "Rol"
+    },
+    {
+      "name": "Resident Evil 4",
+      "author": "Capcom",
+      "year": "2005",
+      "description": "Survival Horror"
+    },
+    {
+      "name": "Silent Hill 2",
+      "author": "Konami",
+      "year": "2001",
+      "description": "Survival Horror"
+    },
+    {
+      "name": "Guitar Hero III: Legends of Rock",
+      "author": "Neversoft",
+      "year": "2007",
+      "description": "Música"
+    },
+    {
+      "name": "Kingdom Hearts II",
+      "author": "Square Enix",
+      "year": "2005",
+      "description": "Rol"
+    },
+    {
+      "name": "Burnout 3: Takedown",
+      "author": "Criterion Games",
+      "year": "2004",
+      "description": "Carreras"
+    }
+  ]

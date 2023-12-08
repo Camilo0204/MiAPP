@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Halo: Combat Evolved",
+      "author": "Bungie",
+      "year": "2001",
+      "description": "Shooter"
+    },
+    {
+      "name": "Fable",
+      "author": "Big Blue Box Studios",
+      "year": "2004",
+      "description": "Role-Playing"
+    },
+    {
+      "name": "Forza Motorsport",
+      "author": "Turn 10 Studios",
+      "year": "2005",
+      "description": "Racing"
+    },
+    {
+      "name": "Gears of War",
+      "author": "Epic Games",
+      "year": "2006",
+      "description": "Shooter"
+    },
+    {
+      "name": "Mass Effect",
+      "author": "BioWare",
+      "year": "2007",
+      "description": "Role-Playing"
+    },
+    {
+      "name": "BioShock",
+      "author": "Irrational Games",
+      "year": "2007",
+      "description": "Shooter"
+    },
+    {
+      "name": "Assassin's Creed",
+      "author": "Ubisoft Montreal",
+      "year": "2007",
+      "description": "Action-Adventure"
+    },
+    {
+      "name": "Elder Scrolls IV: Oblivion",
+      "author": "Bethesda Game Studios",
+      "year": "2006",
+      "description": "Role-Playing"
+    },
+    {
+      "name": "Call of Duty 4: Modern Warfare",
+      "author": "Infinity Ward",
+      "year": "2007",
+      "description": "Shooter"
+    },
+    {
+      "name": "Grand Theft Auto: San Andreas",
+      "author": "Rockstar North",
+      "year": "2004",
+      "description": "Action-Adventure"
+    }
+  ]
